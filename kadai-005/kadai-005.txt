@@ -1,0 +1,3 @@
+a525a1e 日本語訳を追加
+c89d10c hello-world.txtを追加
+4e5dc4f Initial commit
