@@ -1,0 +1,13 @@
+    3  mkdir git-challenge
+    5  cd git-challenge
+    7  git init
+    9  touch hello-world.txt
+   10  vim hello-world.txt    
+   12  git add .
+   14  git commit -m "add hello-world.txt"
+   15  vim hello-world.txt
+   16  git add .
+   17  git commit -m "add Japanese translation"
+   18  mkdir kadai-005
+   20  git log --oneline
+   21  cd kadai-005history > kadai-005.txt
